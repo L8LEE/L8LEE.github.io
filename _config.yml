@@ -1,6 +1,5 @@
-show_githublink: false
-remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# title: Future Homepage for Lee's website
-# description: At some point this page will contain links to all my blogs
+- jekyll-remote-theme
+remote_theme: https://github.com/jekyll/minima
+minima:
+  skin: dark
