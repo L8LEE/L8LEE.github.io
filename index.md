@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<img src="https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg" alt="alt text" width="100%" />
+<img src="https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg" alt="alt text" width="1920" />
