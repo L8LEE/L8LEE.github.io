@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<img src="https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg" alt="alt text" width="1920" />
+![Pumpkin_the_Terror_Monster](https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg)
