@@ -8,4 +8,4 @@
 layout: home
 ---
 # [![image_description](https://i.ibb.co/Y2ZSfqy/DSCN0011.jpg "optional_title")](https://i.ibb.co/Y2ZSfqy/DSCN0011.jpg)
-[(https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg)]
+[!(https://i.ibb.co/Mk81mgR/pumpkin-banner.jpg)]
