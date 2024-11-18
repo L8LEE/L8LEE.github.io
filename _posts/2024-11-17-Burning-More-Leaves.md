@@ -15,4 +15,4 @@ Burning more leaves today. The incinerator is still working. The leaves burnt qu
 
 These images were captured with the old red phone I've been keeping in my pocket. The rubber band trick is working pretty good. I raked and loaded all those leaves and also cut and split fire wood and the phone did not slip out of the shirt pocket a single time. 
 
-That phone takes decent images. The file sizes on these images is also considerably smaller so they should hopefully load faster.
+That phone takes decent images. The file sizes on these images are also considerably smaller so they should hopefully load faster.
